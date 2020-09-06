@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="pow" />
+        <entry key="$PROJECT_DIR$" value="fan" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599425543634</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="delete something">
+      <created>1599425696277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599425696277</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add a new line">
+      <created>1599425851226</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599425851226</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +129,18 @@
     <MESSAGE value="update 3" />
     <MESSAGE value="new update" />
     <MESSAGE value="delete something" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete something" />
+    <MESSAGE value="add a new line" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a new line" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="73" key="CommitChangelistDialog2" timestamp="1599425542744">
+    <state x="462" y="73" key="CommitChangelistDialog2" timestamp="1599425850407">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="462" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1599425542744" />
-    <state x="433" y="238" key="Vcs.Push.Dialog.v2" timestamp="1599425297380">
+    <state x="462" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1599425850407" />
+    <state x="433" y="238" key="Vcs.Push.Dialog.v2" timestamp="1599425805207">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="433" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599425297380" />
+    <state x="433" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599425805207" />
     <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599424525169">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
