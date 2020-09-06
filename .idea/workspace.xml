@@ -123,7 +123,35 @@
       <option name="project" value="LOCAL" />
       <updated>1599425851226</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add a new line">
+      <created>1599427709790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599427709790</updated>
+    </task>
+    <task id="LOCAL-00013" summary="clean">
+      <created>1599427753952</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599427753952</updated>
+    </task>
+    <task id="LOCAL-00014" summary="clean">
+      <created>1599427941304</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599427941304</updated>
+    </task>
+    <task id="LOCAL-00015" summary="clean">
+      <created>1599427962217</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599427962217</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +164,8 @@
     <MESSAGE value="new update" />
     <MESSAGE value="delete something" />
     <MESSAGE value="add a new line" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a new line" />
+    <MESSAGE value="clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean" />
   </component>
   <component name="WindowStateProjectService">
     <state x="462" y="73" key="CommitChangelistDialog2" timestamp="1599425850407">
