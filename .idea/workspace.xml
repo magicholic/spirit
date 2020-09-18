@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fan" />
+        <entry key="$PROJECT_DIR$" value="phone" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599425851226</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge branch 'fan' into phone">
+      <created>1600437313745</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600437313745</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,24 +145,26 @@
     <MESSAGE value="new update" />
     <MESSAGE value="delete something" />
     <MESSAGE value="add a new line" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a new line" />
+    <MESSAGE value="Merge branch 'fan' into phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'fan' into phone" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="73" key="CommitChangelistDialog2" timestamp="1599427753098">
+    <state x="462" y="73" key="CommitChangelistDialog2" timestamp="1599425850407">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="462" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427753098" />
-    <state x="433" y="238" key="Vcs.Push.Dialog.v2" timestamp="1599427641107">
+    <state x="462" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1599425850407" />
+    <state x="433" y="238" key="Vcs.Push.Dialog.v2" timestamp="1599427185998">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="433" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427641107" />
-    <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599427905336">
+    <state x="433" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427185998" />
+    <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599427129423">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427905336" />
-    <state x="627" y="218" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599424543100">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427129423" />
+    <state x="717" y="224" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600437393121">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="218" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1599424543100" />
+    <state x="717" y="224" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600437393121" />
   </component>
 </project>
