@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da0a79d0-85cf-4e8b-8990-67275c8c362f" name="Default Changelist" comment="" />
+    <list default="true" id="da0a79d0-85cf-4e8b-8990-67275c8c362f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_09_06_20_14_26_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_09_06_20_14_26__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +37,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,6 +50,9 @@
       <workItem from="1599419561763" duration="1270000" />
       <workItem from="1599421162379" duration="659000" />
       <workItem from="1599424516092" duration="308000" />
+      <workItem from="1599660674259" duration="1198000" />
+      <workItem from="1600311116818" duration="599000" />
+      <workItem from="1600436098209" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1599420065318</created>
@@ -180,9 +188,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="658" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1599427129423" />
-    <state x="627" y="218" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599424543100">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="717" y="224" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600437083284">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="218" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1599424543100" />
+    <state x="717" y="224" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600437083284" />
   </component>
 </project>
